@@ -7,6 +7,6 @@ I have learn Git again.
 This is master branch.
 New contend added to readme.
 
-Made a conflit andWait a conflit.
+Made a conflit and Wait a conflit.
 
 New line.
