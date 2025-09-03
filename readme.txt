@@ -8,3 +8,5 @@ This is master branch.
 New contend added to readme.
 
 Made a conflit andWait a conflit.
+
+New line.
